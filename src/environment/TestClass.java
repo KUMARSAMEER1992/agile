@@ -9,5 +9,6 @@ public class TestClass
 	{
 		System.out.println("Hi");
 		System.out.println("Test");
+		System.out.println("Group");
 	}
 }
